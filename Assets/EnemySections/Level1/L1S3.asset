@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02818a14e528249079f33ac05d50be0f, type: 3}
+  m_Name: L1S3
+  m_EditorClassIdentifier: 
+  duration: 15
+  sectionEnd: 0
+  simpleEnemyPos:
+  - {x: -10, y: -4, z: 10}
+  - {x: -10, y: 4, z: 10}
+  - {x: 10, y: -4, z: 10}
+  - {x: 10, y: 4, z: 10}
+  mediumEnemyPos:
+  - {x: -4, y: 0, z: 10}
+  - {x: 4, y: 0, z: 10}
+  hardEnemyPos: []
+  bossEnemyPos: []
